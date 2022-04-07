@@ -1,5 +1,3 @@
-Projeto DEV curso B7WEB by Devalanbr
+Projeto html curbo B7WEB
 inicializado em 01/04/2022
-Projeto inicializado dia 01/04/2022
-Desenvolvimento em PHP+CSS.
-
+teste de git commit 03/04/2022
