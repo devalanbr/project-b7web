@@ -4,8 +4,9 @@
   }     
  h1 {
      font-family: 'Raleway', sans-serif;
-     margin: 10px 0px 10px 100px;
+     margin: 10px 0px 10px 170px;
      font-size: 20;
+     font-family: 'Raleway';
  }
  
  .web {
@@ -21,7 +22,39 @@
  p{
      font-family: 'Raleway';
      margin: 10px 0px 10px 170px;
-     font-size: 20;
-     color: #f00
+     font-size: 20; 
+     color:   #f00 
  }
  
+table {
+    width: 500px;
+    
+    }
+    
+table thead{
+ background-color:darkgrey;
+
+}
+
+
+}
+th,td{
+  padding: 5px;
+  text-align:left;
+
+ 
+}
+tbody tr:hover{
+  background-color: lightslategrey; 
+}
+
+tbody td{
+  border:1px solid #000
+  
+}
+
+.Formularios{
+  font-family: 'Raleway';
+  font-size: 20; 
+  color: solid red;
+
